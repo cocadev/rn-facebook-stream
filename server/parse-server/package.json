@@ -6,7 +6,7 @@
     "build": "babel cloud --out-dir cloud-lib --copy-files"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "moment": "^2.17.1"
   },
   "devDependencies": {
